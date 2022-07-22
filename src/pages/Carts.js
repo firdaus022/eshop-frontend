@@ -15,7 +15,7 @@ const dummyProducts = [
     },
     {
         id:1,
-        title: "Produk B",
+        title: "Itachi",
         price: "20000",
         description: "Wahuyyy",
         image: image,
